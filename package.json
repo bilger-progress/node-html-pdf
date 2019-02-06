@@ -22,8 +22,8 @@
     "tap-spec": "^2.2.0",
     "tape": "^3.4.0"
   },
-  "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.4"
+  "dependencies": {
+    "phantomjs-prebuilt": "git://github.com/bilger-progress/phantomjs.git"
   },
   "repository": {
     "type": "git",
